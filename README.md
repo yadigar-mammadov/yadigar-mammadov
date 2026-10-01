@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Yadigar Mammadov
 
-<!--
-**yadigar-mammadov/yadigar-mammadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer specializing in distributed systems, backend architecture, and reliable data-intensive applications.
 
-Here are some ideas to get you started:
+**Core stack:** Java, Python, PostgreSQL, Kafka, RabbitMQ, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+
+**Digital Advertising Management** — a Spring Boot backend demonstrating transactional outbox, idempotent message processing, retry strategies, PostgreSQL transaction management, and ports & adapters architecture.
+
+### Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/yadigar-mammadov/) — professional experience and background
+- [LeetCode](https://leetcode.com/u/yadigar/) — ongoing practice in algorithms, data structures, and problem solving
